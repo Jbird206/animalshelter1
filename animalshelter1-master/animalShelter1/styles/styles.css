@@ -1,0 +1,69 @@
+h1 {
+  text-align: center;
+}
+
+
+.important {
+  color: red;
+}
+
+.unimportant {
+  color: blue;
+}
+
+.aboutme {
+  font-style: italic;
+}
+
+
+body {
+  background-color: blue;
+}
+
+  .puppy1 {
+  background-color: lightblue;
+}
+
+.puppy2 {
+  background-color: yellow;
+}
+
+.puppy3 {
+  background-color: red;
+}
+
+.sidebar {
+  border: 2px solid white;
+}
+
+.column {
+  border: 2px solid purple;
+  width: 275px;
+  float: left;
+  padding: 4px;
+  margin: 3px;
+}
+
+
+.my-class {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+  clear: both;
+}
+
+.columnDiv {
+  border: 2px solid purple;
+  clear: both;
+}
+
+
+
+.columnDiv2 {
+  border: 2px solid red;
+  clear: both;
+}
+
+.sidebar {
+  border: 2px solid blue;
+}
